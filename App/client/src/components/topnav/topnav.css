@@ -1,0 +1,40 @@
+.topnav
+{
+    margin-left: 85%;
+    padding:10px;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    height:var(--topnav-height);
+    position: relative;
+    z-index: 1000;
+}
+
+.topnav_right
+{
+    display: flex;
+    align-items: center;
+}
+
+.topnav_right-item
+{
+    margin-left:10px;
+    transform: scale(0.6);
+
+}
+
+.notification-item
+{
+   display: flex;
+   align-items: center;
+   padding: 20px;
+}
+
+.notification-item:hover
+{
+    background-color: var(--second-bg);
+    color: #00cc00;
+}
+
+
+

@@ -1,0 +1,21 @@
+.layout
+{
+    color: var(--txt-color);
+}
+
+.layout_content
+{
+ padding-left: var(--sidebar-width);
+ background-color: var(--second-bg);
+ min-height:100vh;
+}
+
+.layout_content_main
+{
+    padding:30px;
+}
+
+.title
+{
+    color:#00cc00;
+}

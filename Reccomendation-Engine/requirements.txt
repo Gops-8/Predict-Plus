@@ -1,0 +1,12 @@
+Cython>=0.22
+numpy>=1.15.4
+pandas>=1.0.4
+matplotlib>=2.0.0
+tqdm>=4.36.1
+wheel>=0.37.0
+gunicorn==19.9.0
+flask
+flasgger
+sklearn
+mftool
+tensorflow-cpu

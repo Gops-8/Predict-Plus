@@ -1,0 +1,25 @@
+<html>
+    <head>
+    <meta charset="UTF-8">
+    <title>Hello World</title>
+    </head>
+        <body>
+            <h1>Hello from Your name!</h1>
+<div id="webchat"/>
+<script src="https://cdn.jsdelivr.net/npm/rasa-webchat/lib/index.min.js"></script>
+
+// Or you can replace latest with a specific version
+<script>
+  WebChat.default.init({
+    selector: "#webchat",
+    customData: {"language": "en"}, // arbitrary custom data. Stay minimal as this will be added to the socket
+    socketUrl: "https://finalchatbot.herokuapp.com/",
+    socketPath: "/socket.io/",
+    title: "your name",
+    subtitle: "first bot ever!",
+
+  })
+</script>
+
+        </body>
+</html>

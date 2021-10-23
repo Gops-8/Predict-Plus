@@ -1,0 +1,25 @@
+[
+    
+    {
+        "icon": "bx bx-pen",
+        "count": "1",
+        "title": "Insurance Policies"
+    },
+    
+    {
+        "icon": "bx bx-money",
+        "count": "1",
+        "title": "Bonds"
+    },
+
+    {
+        "icon": "bx bxs-bank",
+        "count": "1",
+        "title": "Deposits"
+    },
+    {
+        "icon": "bx bx-coin-stack",
+        "count": "2.4%",
+        "title": "Investment Returns"
+    }
+]

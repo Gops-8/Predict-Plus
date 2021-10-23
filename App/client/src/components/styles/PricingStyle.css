@@ -1,0 +1,26 @@
+.flex-container-pricing {
+  display: flex;
+  height:500px;
+}
+
+.flex-child-pricing {
+  flex: 1;
+ 
+  width: 100%;
+}  
+
+.flex-child-pricing:first-child {
+  margin-right: 20px;
+} 
+
+.img_pricing
+{
+  transform: scale(0.96);
+  margin: auto;
+  margin-left: 25%;
+}
+
+.h2-pricing
+{
+  margin-top: 5%;
+}

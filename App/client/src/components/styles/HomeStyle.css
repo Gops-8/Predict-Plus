@@ -1,0 +1,95 @@
+.img1
+{
+    transform: scale(1.5);
+    width: 50%;
+    margin-left: 15%;
+    
+}
+
+.h1_home
+{
+  color:black;
+}
+
+
+.ul_home {
+    list-style-type: none;
+    margin-top: 100px;
+  }
+
+.li_home{
+    float:left;
+
+}
+
+.button {
+    background-color: #00CC00; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  .button1 {
+    background-color:#00cc00; 
+    color: white; 
+    border: 2px solid #00CC00;
+    border-radius: 4px;
+    margin-right: 20px;
+  }
+  
+  .button1:hover {
+    background-color:white;
+    color:#00cc00;
+  }
+
+  .button2 {
+    background-color: #00CC00; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  .button3 {
+    background-color:white; 
+    color: #00cc00; 
+    border: 2px solid #00CC00;
+    border-radius: 4px;
+    margin-right: 20px;
+  }
+  
+  .button3:hover {
+    background-color:#00cc00;
+    color:white;
+  }
+
+  .icon
+  {
+    margin-top: 50px;
+    margin-right:10px;
+    transform:scale(1);
+  }
+
+  .apps
+  {
+    
+    transform: scale(1);
+  }
+
+
+
+
+

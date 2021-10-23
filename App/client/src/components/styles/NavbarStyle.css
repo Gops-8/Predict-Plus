@@ -1,0 +1,45 @@
+.navbar {
+    width: 100%;
+    overflow: auto;
+    height:auto;
+    border-bottom: 2px solid #DCDCDC;
+  }
+
+img
+{
+  padding-top: 20px;
+  margin-left: 2%;
+  transform: scale(1.5);
+}
+
+  /* Navbar links */
+  .navbar .link{
+    float: right;
+    text-align: center;
+    color: #000;
+    padding-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-right: 20px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: sans-serif;
+  }
+  
+  /* Navbar links on mouse-over */
+  .link:hover {
+    color: #00cc00;
+  }
+  
+  /* Current/active navbar link */
+  .active {
+    background-color: #04AA6D;
+  }
+  
+  /* Add responsiveness - will automatically display the navbar vertically instead of horizontally on screens less than 500 pixels */
+  @media screen and (max-width: 500px) {
+    .navbar .link{
+      float: none;
+      display: block;
+    }
+  }

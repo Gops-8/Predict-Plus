@@ -1,0 +1,23 @@
+[
+    {
+        "icon": "bx bxs-user-account",
+        "count": "3",
+        "title": "Total Accounts"
+    },
+    
+    {
+        "icon": "bx bxs-credit-card",
+        "count": "0",
+        "title": "Credit cards & Loans"
+    },
+    {
+        "icon": "bx bx-rupee",
+        "count": "3.3L",
+        "title": "Total assets"
+    },
+    {
+        "icon": "bx bx-transfer",
+        "count": "34",
+        "title": "Total transactions"
+    }
+]

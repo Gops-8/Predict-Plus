@@ -1,0 +1,10 @@
+.analytics
+{
+    margin-left: 50px;
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: var(--main-bg);
+    box-shadow: var(--box-shadow);
+    border: var(--border-radius);
+}
+

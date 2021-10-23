@@ -1,0 +1,26 @@
+.flex-container {
+  display: flex;
+  height:500px;
+}
+
+.flex-child {
+  flex: 1;
+  
+  width: 100%;
+}  
+
+.flex-child:first-child {
+  margin-right: 20px;
+} 
+
+.img_about
+{
+  transform: scale(0.96);
+  margin: auto;
+  margin-left: 25%;
+}
+
+.h2_about
+{
+  margin-top: 5%;
+}

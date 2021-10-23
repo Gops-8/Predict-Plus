@@ -1,0 +1,26 @@
+.flex-container-docs {
+  display: flex;
+  height:500px;
+}
+
+.flex-child-docs {
+  flex: 1;
+ 
+  width: 100%;
+}  
+
+.flex-child-docs:first-child {
+  margin-right: 20px;
+} 
+
+.img_docs
+{
+  transform: scale(0.96);
+  margin: auto;
+  margin-left: 25%;
+}
+
+.h2-docs
+{
+  margin-top: 5%;
+}
